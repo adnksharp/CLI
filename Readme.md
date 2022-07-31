@@ -6,6 +6,8 @@
 .    ##  ##   ##  .  .    ##  .    ##  .  ##    .  .    ## 
 .  . ##  #######     .  . ##  .  . ##     #######  .  . ##
 ```
+compilador:
+- [Clang](https://wiki.archlinux.org/title/Clang)
 
 ## [Reloj](https://github.com/adnksharp/cClock)
 Reloj en ASCII simulando displays de 7 segmentos.
