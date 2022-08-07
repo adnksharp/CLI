@@ -1,3 +1,7 @@
+# Herramientas:
+- [Clang](https://wiki.archlinux.org/title/Clang)
+- [scilab 6.1.1](https://www.scilab.org/download/scilab-6.1.1)
+
 # Proyectos de CLI en C
 ```
 .  . ##  #######     .  . ##  #######     #######  ####### 
@@ -6,8 +10,6 @@
 .    ##  ##   ##  .  .    ##  .    ##  .  ##    .  .    ## 
 .  . ##  #######     .  . ##  .  . ##     #######  .  . ##
 ```
-compilador:
-- [Clang](https://wiki.archlinux.org/title/Clang)
 
 ## [Reloj](https://github.com/adnksharp/cClock)
 Reloj en ASCII simulando displays de 7 segmentos.
@@ -62,9 +64,6 @@ Matriz C:
 ```
 
 Uso de scilab para análisis numerico
-
-## Software
-[scilab 6.1.1](https://www.scilab.org/download/scilab-6.1.1)
 
 ## Proyectos
 ### [Raices de numeros](https://github.com/adnksharp/sSqrt/blob/base/sqrt.sce)
