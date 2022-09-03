@@ -201,6 +201,9 @@ Simulación de un prestamo tomando en cuenta el prestamo, la tasa de interes y e
 ### [Calificaciones](https://github.com/adnksharp/sRating)
 Calcula la calificacion de una persona de ZZ, F a A y 0 a 100 tomando en cuenta las unidades de la materia, el porcentaje de los rubros a calificar y la calificacion de cada rubro.
 
+### [Formulas de ingenieria economica](https://github.com/adnksharp/sEE)
+Relaciones de flujo de efectivo discretos con capitalización al final del período.
+
 ## Referencias
 [Scilab](https://help.scilab.org/docs/6.1.1/en_US/index.html)
 
