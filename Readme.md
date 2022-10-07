@@ -1,5 +1,6 @@
 # Herramientas:
 - [Clang](https://wiki.archlinux.org/title/Clang)
+- [python 3](https://www.python.org/downloads/)
 - [scilab 6.1.1](https://www.scilab.org/download/scilab-6.1.1)
 
 # Proyectos de CLI en C
